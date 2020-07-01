@@ -4,8 +4,6 @@ print("***LETS GET STARTED***")
 name = input("Enter your name: ")
 print("Welcome, ",name)
 
-print("What would you like to perform?")
-choice = input("Taxation or Compound intrest? <T/I> ")
 
 def intrest():
     try:
